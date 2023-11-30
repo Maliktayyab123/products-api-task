@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hZcQce4wgSRIVsgpYoQslDEBsrdu6yFTGk9ePjasirw=",
+  "Source": "sample-crud-base",
+  "BasePath": "_content/sample-crud-base",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
